@@ -15,6 +15,12 @@
 
 - The user may also open the DevTools/Console (Control+Shift+I) to further find alt text/descriptive text for the images within the website.
 
+- [LINK TO THE WEBSITE](https://seejayee.github.io/code-refactor/)
+- Website should look like the images below:
+
+![Website Screenshot](assets/images/horiseon1.jpeg)
+![Website Screenshot](assets/images/horiseon2.png)
+
 ## Credits
 
 - Not Applicable.
